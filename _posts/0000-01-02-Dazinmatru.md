@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our Daz's new slide!"
 ---
-This isssssss sooo coool!
+This is a new slide changed via desktop app
 Use the left arrow to go back!
